@@ -9,9 +9,7 @@ public class HelloWorld {
 	}
 	
 	public static void heyNow() {
-	String Msg = "Hey Now!";
+	String Msg = "Hey Now Lets Go!";
 	System.out.println(Msg);
-}
-
 
 }
